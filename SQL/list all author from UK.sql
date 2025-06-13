@@ -1,0 +1,1 @@
+SELECT name FROM Author WHERE country = 'UK'; 
